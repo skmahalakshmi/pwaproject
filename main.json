@@ -1,0 +1,57 @@
+{
+	"profile":{
+		"img":"image.png",
+		"name":"maha lakshmi",
+		"roll":"123456",
+		"institute":"vignan",
+		"place":"guntur"
+     },
+     "career":{
+     	"info":"to secure a challenging position in a reputable organisation to expand my learning,knowledge and skills."
+     },
+     "educational":[
+     	{
+     		"degree":"b.tech",
+     		"institution":"vigan",
+     		"yop":"2020"
+     	},
+     	{
+     		"degree":"intermedite",
+     		"institution":"xxxx",
+     		"yop":"yyyy"
+     	},
+     	{
+     		"degree":"s.s.c",
+     		"institution":"xxxx",
+     		"yop":"yyyy"
+     	}
+     ],
+     "languages":[
+{
+	"lang":"telugu"
+},
+{
+	"lang":"english"
+},
+{
+	"lang":"hindi"
+}
+
+     ],
+     "skills":[
+     	{
+     		"title":"platforms",
+     		"content":"windows,linus"
+     	},
+     	{
+     		"title":"programming languages",
+     		"content":"c,c++,java"
+     	},
+     	{
+     		"title":"database",
+     		"content":"mysql"
+     	}
+     ]
+
+
+}
